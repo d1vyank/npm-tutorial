@@ -1,0 +1,22 @@
+{
+  "name": "@divyank/npm_tutorial",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+   "type": "git",
+    "url": "git+https://github.com/d1vyank/npm-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1vyank/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/d1vyank/npm-tutorial#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
