@@ -1,6 +1,6 @@
-{  
+{
   "name": "@divyank/npm-tutorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first project",
   "main": "index.js",
   "scripts": {
