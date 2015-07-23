@@ -1,16 +1,16 @@
-{
-  "name": "@divyank/npm_tutorial",
+{  
+  "name": "@divyank/npm-tutorial",
   "version": "1.0.0",
-  "description": "my first npm package",
+  "description": "my first project",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-   "type": "git",
+    "type": "git",
     "url": "git+https://github.com/d1vyank/npm-tutorial.git"
   },
-  "author": "",
+  "author": "divyank",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/d1vyank/npm-tutorial/issues"
